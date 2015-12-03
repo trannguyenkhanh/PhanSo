@@ -1,8 +1,5 @@
 language: csharp
 solution: Demo.sln
 install:
+  - sudo apt-get install -y gtk-sharp2
   - nuget restore Demo.sln
-  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
-script:
-  - xbuild /p:Configuration=Debug Demo.sln
-  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe./ProjectPhanSo.test/bin/Release/ProjectPhanSo.test.dll
