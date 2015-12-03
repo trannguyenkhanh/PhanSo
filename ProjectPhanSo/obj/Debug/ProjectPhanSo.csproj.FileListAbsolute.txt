@@ -1,0 +1,11 @@
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\bin\Debug\ProjectPhanSo.exe.config
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\bin\Debug\ProjectPhanSo.exe
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\bin\Debug\ProjectPhanSo.pdb
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.csprojResolveAssemblyReference.cache
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.Form1.resources
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.Properties.Resources.resources
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.csproj.GenerateResource.Cache
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.exe
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo\obj\Debug\ProjectPhanSo.pdb
+C:\Users\Museum\Documents\Visual Studio 2012\Projects\Demo\ProjectPhanSo\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Museum\Documents\Visual Studio 2012\Projects\Demo\ProjectPhanSo\bin\Debug\NuGet.Core.dll

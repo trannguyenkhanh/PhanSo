@@ -1,0 +1,11 @@
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\ProjectPhanSo.test.dll
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\ProjectPhanSo.test.pdb
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\nunit.framework.dll
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\ProjectPhanSo.exe
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\ProjectPhanSo.pdb
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\nunit.framework.xml
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\obj\Debug\ProjectPhanSo.test.csprojResolveAssemblyReference.cache
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\obj\Debug\ProjectPhanSo.test.dll
+c:\users\museum\documents\visual studio 2012\Projects\Demo\ProjectPhanSo.test\obj\Debug\ProjectPhanSo.test.pdb
+C:\Users\Museum\Documents\Visual Studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\Museum\Documents\Visual Studio 2012\Projects\Demo\ProjectPhanSo.test\bin\Debug\NuGet.Core.dll
